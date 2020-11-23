@@ -10,8 +10,7 @@ pip2 install requests
 pkg install figlet -y
 pkg install nano -y
 pkg install git -y
-git clone https://github.com/Cyser-Inc/Phising-Game-Online
-
+git clone https://github.com/hackedoffcial/Phising-Game-Online
 # how to use
 ```
 cd Phising-Game-Online
