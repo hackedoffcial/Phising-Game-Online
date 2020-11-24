@@ -5,11 +5,11 @@ tools phising untuk game : mobile legends & clash of clans
 
 # Installation 
 
-~≽ pkg install python2 -y
-pip2 install requests
-pkg install figlet -y
-pkg install nano -y
-pkg install git -y
+~≽ pkg install python2 -y &&
+pip2 install requests && 
+pkg install figlet -y && 
+pkg install nano -y && 
+pkg install git -y && 
 git clone https://github.com/hackedoffcial/Phising-Game-Online
 # how to use
 ```
